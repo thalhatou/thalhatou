@@ -1,5 +1,3 @@
-
-<
 # Hi there 👋, I am Thalhatou Yahya👨‍💻
 
 A web developer living in Douala, Cameroon.
