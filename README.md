@@ -2,7 +2,6 @@
 
 A web developer living in Douala, Cameroon.
 - 🔭 I’m currently working on TechLewa Coding Platform.
-- 🌱 I’m currently learning Flutter and Dart
 - 👯 I’m looking to collaborate on Javascript and PHP projects
 - 💬 Ask me about anything web and mobile
 - ⚡ Fun fact: Ctrl C, Ctrl V, and Ctrl-Z have saved more lives than Batman.
