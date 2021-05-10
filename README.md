@@ -1,6 +1,5 @@
-# Hi there 👋, I am Thalhatou Yahya👨‍💻
+# Hi there 👋💻
 
-A web developer living in Douala, Cameroon.
 - 🔭 I’m currently working on TechLewa Coding Platform.
 - 👯 I’m looking to collaborate on Javascript and PHP projects
 - 💬 Ask me about anything web and mobile
