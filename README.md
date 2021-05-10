@@ -5,6 +5,9 @@
 - 💬 Ask me about anything web .
 - ⚡ Fun fact: Ctrl C, Ctrl V, and Ctrl-Z have saved more lives than Batman.
 
+![Thalhatou's github stats](https://github-readme-stats.vercel.app/api?username=thalhatou)
+
+
 <h3 align="left">📫&nbsp;How to reach me:</h3>
 
 <a href="https://api.whatsapp.com/send?phone=237677730017&text=Hello%20Olayemii,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
