@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on TechLewa Coding Platform.
 - 👯 I’m looking to collaborate on Javascript and PHP projects
-- 💬 Ask me about anything web and mobile
+- 💬 Ask me about anything web .
 - ⚡ Fun fact: Ctrl C, Ctrl V, and Ctrl-Z have saved more lives than Batman.
 
 <a href="https://api.whatsapp.com/send?phone=237677730017&text=Hello%20Olayemii,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
