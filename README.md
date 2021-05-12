@@ -1,8 +1,9 @@
 # Hi there 👋💻
 
 - 🔭 I’m currently working on TechLewa Coding Platform.
+- 📚 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on Javascript and PHP projects
-- 💬 Ask me about anything web .
+- 💬 Ask me about anything Modern web .
 - ⚡ Fun fact: Ctrl C, Ctrl V, and Ctrl-Z have saved more lives than Batman.
 
 ![Thalhatou's github stats](https://github-readme-stats.vercel.app/api?username=thalhatou)
