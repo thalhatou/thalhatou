@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on TechLewa Coding Platform.
 - 📚 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on Javascript and PHP projects
-- 👷‍ 2021 Goals: Contribute to open Source Projects 
+- 👯 I’m looking to collaborate on Javascript and Python projects
+- 👷‍ 2022 Goals: Contribute to open Source Projects 
 - 💬 Ask me about Modern web .
 - ⚡ Fun fact: Ctrl C, Ctrl V, and Ctrl-Z have saved more lives than Batman.
 
