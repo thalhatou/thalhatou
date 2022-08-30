@@ -1,7 +1,6 @@
 # Hi there 👋💻
 
-- 🔭 I’m currently working on TechLewa Coding Platform.
-- 📚 I’m currently learning everything 🤣
+- 🔭 I’m currently working on TechLewa  Platform.
 - 👯 I’m looking to collaborate on Javascript and Python projects
 - 👷‍ 2022 Goals: Contribute to open Source Projects 
 - 💬 Ask me about Modern web .
