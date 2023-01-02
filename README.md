@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on TechLewa  Platform.
 - 👯 I’m looking to collaborate on Javascript and Python projects
-- 👷‍ 2022 Goals: Contribute to open Source Projects 
+- 👷‍ 2023 Goals: Contribute to open Source Projects & Crack the coding interview
 - 💬 Ask me about Modern web .
 - ⚡ Fun fact: Ctrl C, Ctrl V, and Ctrl-Z have saved more lives than Batman.
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">📫&nbsp;How to reach me:</h3>
 
-<a href="https://api.whatsapp.com/send?phone=237677730017&text=Hello%20Olayemii,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
+<a href="https://api.whatsapp.com/send?phone=237674701480&text=Hello%20Olayemii,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 </a>
 <a href="https://www.twitter.com/thalhatou" alt="Follow Me on Twitter"> 
