@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on TechLewa  Platform.
 - 👯 I’m looking to collaborate on Javascript and Python projects
-- 👷‍ 2023 Goals: Contribute to open Source Projects & Crack the coding interview
+- 👷‍ 2023 Goals: Contribute to open Source Projects & Cracking the coding interview
 - 💬 Ask me about Modern web .
 - ⚡ Fun fact: Ctrl C, Ctrl V, and Ctrl-Z have saved more lives than Batman.
 
