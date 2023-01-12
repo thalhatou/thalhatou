@@ -5,8 +5,7 @@
 - 👷‍ 2023 Goals: Cracking the coding interview & Contributing to open Source Projects
 - 💬 Ask me about Modern web .
 - ⚡ Fun fact: Ctrl C, Ctrl V, and Ctrl-Z have saved more lives than Batman.
-
-[![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahya)](https://github.com/anuraghazra/github-readme-stats)
+![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalhatou&show_icons=true&theme=radical)
 
 
 <h3 align="left">📫&nbsp;How to reach me:</h3>
