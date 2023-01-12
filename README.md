@@ -8,6 +8,8 @@
 ![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalhatou&show_icons=true&theme=radical)
 
 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thalhatou" alt="thalhatou"/></p>
+
 <h3 align="left">📫&nbsp;How to reach me:</h3>
 
 <a href="https://api.whatsapp.com/send?phone=237674701480&text=Hello%20Olayemii,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
