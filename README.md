@@ -10,9 +10,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
  <h3 align="left">Backend:</h3>
+<div display="inline">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" />
-
+ </div>
 </p>
 
 <p align="left">
