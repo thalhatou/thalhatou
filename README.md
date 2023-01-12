@@ -20,9 +20,9 @@
 
 <p align="left">
  <h3 align="left">Databases:</h3>
-
- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://simpleicons.org/icons/mongodb.svg" alt="mongodb" width="40" height="40"/></a>
- <a href="https://www.mysql.com/" target="_blank"> <img src="https://simpleicons.org/icons/mysql.svg" alt="mysql" width="40" height="40"/> </a>
+ <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+ <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+ <a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgressql" width="40" height="40"/> </a>
 </p>
 
 <p align="left">
