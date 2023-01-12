@@ -6,7 +6,7 @@
 - 💬 Ask me about Modern web .
 - ⚡ Fun fact: Ctrl C, Ctrl V, and Ctrl-Z have saved more lives than Batman.
 
-![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalhatou&show_icons=true)
 
 
 <h3 align="left">📫&nbsp;How to reach me:</h3>
