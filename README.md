@@ -51,7 +51,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thalhatou&show_icons=true&locale=en" alt="thalhatou" /></p>
 
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thalhatou" alt="thalhatou"/></p>
+<!--  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thalhatou" alt="thalhatou"/></p> -->
 
 <h3 align="left">📫&nbsp;How to reach me:</h3>
 
