@@ -46,8 +46,9 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thalhatou&show_icons=true&locale=en&layout=compact" alt="thalhatou" /></p>
 
-![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalhatou&show_icons=true&theme=radical)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thalhatou&show_icons=true&locale=en" alt="thalhatou" /></p>
 
 
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thalhatou" alt="thalhatou"/></p>
