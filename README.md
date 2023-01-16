@@ -30,7 +30,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  <img src="https://simpleicons.org/icons/javascript.svg" alt="php" width="40" height="40"/>  </a> 
 <a href="https://vuejs.org/" target="_blank">   <img src="https://simpleicons.org/icons/vue-dot-js.svg" width="40" height="40" alt="vue"/> </a> 
 <a href="https://reactjs.org/" target="_blank">  <img src="https://simpleicons.org/icons/react.svg" width="40" height="40" alt="react"/> </a> 
-<a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a>  
+<a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> </a>  
 <a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a>
  <a href="https://www.getbootstrap.com" target="_blank"> <img src="https://simpleicons.org/icons/bootstrap.svg" alt="bootstrap" width="40" height="40"/> <a/>
  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://simpleicons.org/icons/tailwindcss.svg" alt="tailwind" width="40" height="40"/> <a/>
