@@ -7,7 +7,7 @@
 - ⚡ Fun fact: Ctrl C, Ctrl V, and Ctrl-Z have saved more lives than Batman.
 
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left">
  <h3 align="left">Backend:</h3>
 <div display="inline">
@@ -46,7 +46,7 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://figma.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a>
  <a href="https://figma.com" target="_blank"> <img src="https://icons8.com/icon/F6H2fsqXKBwH/notion.png" alt="notion" width="40" height="40"/> </a>
-</p>
+</p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thalhatou&show_icons=true&locale=en" alt="thalhatou" /></p>
 
