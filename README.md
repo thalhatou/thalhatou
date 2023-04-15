@@ -62,6 +62,7 @@ I'm a Lifelong Learner who strives to be able to do anything by learning and pra
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 #### Tools
+![Git](https://img.shields.io/badge/git-FF6C37?style=for-the-badge&logo=git&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-FF6C37?style=for-the-badge&logo=notion&logoColor=white)
