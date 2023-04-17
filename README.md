@@ -9,16 +9,16 @@ I'm a Lifelong Learner who strives to be able to do anything by learning and pra
 <a href="https://dev.to/thalhatou" alt="Dev.to"> 
     <img src="https://img.shields.io/badge/dev-12100E?style=for-the-badge&logo=dev&logoColor=white"/> 
 </a>
-<a href="https://www.linkedin.com/in/thalhatou" alt="Connect on LinkedIn"> 
+<a href="https://www.linkedin.com/in/thalhatou" alt="LinkedIn"> 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
 
-<a href="https://www.twitter.com/thalhatou" alt="Follow Me on Twitter"> 
+<a href="https://www.twitter.com/thalhatou" alt="Twitter"> 
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
 <a href="mailto:thalhatouyahya5352@gmail.com">
-  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 
 ***
