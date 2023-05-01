@@ -3,8 +3,8 @@
 
 I'm a Lifelong Learner who strives to be able to do anything by learning and practicing.
 
-
-![](https://komarev.com/ghpvc/?username=your-thalhatou)
+<!-- 
+![](https://komarev.com/ghpvc/?username=your-thalhatou) -->
 
 <a href="https://dev.to/thalhatou" alt="Dev.to"> 
     <img src="https://img.shields.io/badge/dev-12100E?style=for-the-badge&logo=dev&logoColor=white"/> 
